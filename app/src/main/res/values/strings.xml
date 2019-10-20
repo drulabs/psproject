@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Shelf</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_browse">Browse</string>
+    <string name="msg_not_items_in_shelf">No books in shelf \n\n Add books by clicking on the ADD button below</string>
+    <string name="action_clear">Clear</string>
+    <string name="format_book_title">%s (%d)</string>
+    <string name="title_select_book">Select a book</string>
+</resources>
