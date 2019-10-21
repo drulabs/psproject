@@ -6,8 +6,6 @@ interface DataProvider {
 
     fun getBooksFromMyShelf(): List<Book>
 
-    fun getBookByTitle(title: String): Book?
-
     fun addToMyShelf(book: Book)
 
     fun removeFromMyShelf(book: Book)
