@@ -16,3 +16,5 @@ This project is a simple book shelf app. This app has 2 screens:
 - Browse books screen: Launched by tapping on the floating action button on the home screen. This displays a list of available books (100), and allows user to select a book by tapping on it. Allowed actions:
     - Select a book by tapping it. This action navigates back to home screen and updates the book shelf
     
+- ANy thing else
+    
